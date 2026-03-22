@@ -36,3 +36,5 @@
 - ``generate_sync_packets.m``: Generates a synthetic BLE packet and inserts it at fixed time intervals of recorded IQ samples. Used for time alignment.
 - ``bin2mat.m``: Converts sigmf-data (binary) file to .mat file.
 - ``tx.py``: Transmits pre-recorded IQ data from USRP.
+## Note:
+- Some plots have been commented out to compile faster and avoid crashes 
