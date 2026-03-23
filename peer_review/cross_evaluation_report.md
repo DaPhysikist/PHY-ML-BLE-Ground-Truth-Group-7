@@ -1,7 +1,7 @@
 # Cross Evaluation Report
 
 **Project Title:** _PHY-ML BLE Ground Truth Generation_  
-**Authors:** _Not listed in the repository_
+**Authors:** _Alexis Emmanuelle Pascual, Yusuf Amanullah, Andrew Fu_
 
 ## 1. Documentation
 
