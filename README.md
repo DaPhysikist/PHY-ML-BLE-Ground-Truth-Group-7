@@ -37,4 +37,5 @@
 - ``bin2mat.m``: Converts sigmf-data (binary) file to .mat file.
 - ``tx.py``: Transmits pre-recorded IQ data from USRP.
 ## Note:
-- Some plots have been commented out to compile faster and avoid crashes 
+- Some plots have been commented out to compile faster and avoid crashes
+- The SIMO file doesn't have the correct pcap file sniffer capture but code is all correct for the implementation (plot do not accurately represent code, with correct pcap file, it should look like the SISO Time Alignment case)
